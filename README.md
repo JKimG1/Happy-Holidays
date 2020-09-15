@@ -4,6 +4,8 @@
 
 ## Note
 
+This is last assignment from CS 3451.
+
 ### To Run:
 1. cd into the directory and run ```npm install```
 
