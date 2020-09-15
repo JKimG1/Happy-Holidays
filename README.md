@@ -4,7 +4,7 @@
 
 ## Note
 
-###To Run:
+### To Run:
 1. cd into the directory and run ```npm install```
 
 2. run server with ```serve```
